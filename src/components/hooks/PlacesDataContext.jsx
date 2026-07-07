@@ -9,7 +9,7 @@ const VERSION_KEY = 'tb_places_data_version'
 // (add/remove places, change images, etc.) so that everyone's
 // browser automatically picks up the fresh file instead of using
 // their old cached localStorage copy.
-const DATA_VERSION = "3"
+const DATA_VERSION = "4"
 
 // ─── HELPERS ──────────────────────────────────────────────────
 const loadFromStorage = () => {
