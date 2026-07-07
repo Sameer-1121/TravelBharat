@@ -33,7 +33,7 @@ export const placesData = [
     state: "rajasthan", stateName: "Rajasthan", city: "Jaisalmer", category: "Heritage", rating: 4.6,
     description: "Rising from the heart of the Thar Desert, Jaisalmer Fort is one of the world's few living forts — about 3,000 people still reside within its golden sandstone walls.",
     bestTime: "November – February", entryFee: "₹30 (Indians) | ₹70 (Foreigners)", timings: "9:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1524230572899-a752b3835840?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/960px-Jaisalmer_forteresse.jpg",
     nearbyPlaces: ["sam-sand-dunes", "hawa-mahal"],
   },
   {
@@ -60,7 +60,7 @@ export const placesData = [
     state: "rajasthan", stateName: "Rajasthan", city: "Pushkar", category: "Religious", rating: 4.6,
     description: "Pushkar is one of India's oldest cities, home to the only Brahma temple in the world. The sacred Pushkar Lake is surrounded by 52 ghats and is a major pilgrimage destination.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1599030236747-e932b3e3b868?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Evening_lights_by_the_Pushkar_Lake%2C_Pushkar.jpg/1920px-Evening_lights_by_the_Pushkar_Lake%2C_Pushkar.jpg",
     nearbyPlaces: ["amber-fort", "hawa-mahal"],
   },
 
@@ -89,7 +89,7 @@ export const placesData = [
     state: "kerala", stateName: "Kerala", city: "Thekkady", category: "Nature", rating: 4.6,
     description: "One of India's most visited wildlife sanctuaries, Periyar is home to elephants, tigers, leopards, and over 260 bird species. Boat rides on Periyar Lake offer amazing wildlife sightings.",
     bestTime: "October – March", entryFee: "₹25 (Indians) | ₹300 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1585136917228-906dcc7a3a3a?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/960px-Periyar_National_Park.JPG",
     nearbyPlaces: ["munnar-tea-gardens", "alleppey-backwaters"],
   },
   {
@@ -136,7 +136,7 @@ export const placesData = [
     state: "himachal-pradesh", stateName: "Himachal Pradesh", city: "Manali", category: "Religious", rating: 4.6,
     description: "Nestled amidst tall deodar trees, Hadimba Temple is a unique cave temple dedicated to Hidimba Devi. Built in 1553, its four-tiered pagoda-style roof is a remarkable example of Himachali craftsmanship.",
     bestTime: "October – June", entryFee: "Free", timings: "8:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF/lossy-page1-500px-Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF.jpg",
     nearbyPlaces: ["solang-valley", "rohtang-pass"],
   },
   {
@@ -183,7 +183,7 @@ export const placesData = [
     state: "goa", stateName: "Goa", city: "Sonaulim", category: "Nature", rating: 4.7,
     description: "Dudhsagar, meaning 'Sea of Milk', is one of India's tallest waterfalls at 310 metres. Located on the Goa-Karnataka border, it cascades through dense forests and is most spectacular during monsoon.",
     bestTime: "June – December", entryFee: "₹400 (Jeep safari)", timings: "7:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Doodhsagar_Fall.jpg/500px-Doodhsagar_Fall.jpg",
     nearbyPlaces: ["baga-beach", "fort-aguada"],
   },
   {
@@ -192,7 +192,7 @@ export const placesData = [
     state: "goa", stateName: "Goa", city: "Old Goa", category: "Heritage", rating: 4.6,
     description: "A UNESCO World Heritage Site, the Basilica of Bom Jesus is one of the best examples of baroque architecture in India. It houses the mortal remains of St. Francis Xavier and is over 400 years old.",
     bestTime: "November – March", entryFee: "Free", timings: "9:00 AM – 6:30 PM",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Front_Elevation_of_Basilica_of_Bom_Jesus.jpg/500px-Front_Elevation_of_Basilica_of_Bom_Jesus.jpg",
     nearbyPlaces: ["fort-aguada", "baga-beach"],
   },
 
@@ -212,7 +212,7 @@ export const placesData = [
     state: "uttar-pradesh", stateName: "Uttar Pradesh", city: "Agra", category: "Heritage", rating: 4.6,
     description: "Agra Fort is a UNESCO World Heritage Site and one of India's greatest Mughal monuments. This massive red sandstone fort served as the main residence of Mughal emperors for generations.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹550 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1587135941948-670b381f08d2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/960px-Agra_03-2016_10_Agra_Fort.jpg",
     nearbyPlaces: ["taj-mahal", "fatehpur-sikri"],
   },
   {
@@ -221,7 +221,7 @@ export const placesData = [
     state: "uttar-pradesh", stateName: "Uttar Pradesh", city: "Agra", category: "Heritage", rating: 4.5,
     description: "Fatehpur Sikri is a UNESCO World Heritage Site — a magnificent abandoned Mughal city built by Emperor Akbar in 1571. Its red sandstone palaces, mosques, and courtyards are remarkably well preserved.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹550 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/960px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
     nearbyPlaces: ["taj-mahal", "agra-fort"],
   },
   {
@@ -230,7 +230,7 @@ export const placesData = [
     state: "uttar-pradesh", stateName: "Uttar Pradesh", city: "Varanasi", category: "Religious", rating: 4.8,
     description: "Varanasi, the spiritual capital of India, is one of the world's oldest living cities. Its 88 ghats along the sacred Ganga river, especially the evening Ganga Aarti at Dashashwamedh Ghat, are a profoundly moving experience.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day (Aarti at 7:00 PM)",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg/500px-Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
     nearbyPlaces: ["taj-mahal", "agra-fort"],
   },
   {
@@ -250,7 +250,7 @@ export const placesData = [
     state: "uttarakhand", stateName: "Uttarakhand", city: "Rishikesh", category: "Religious", rating: 4.8,
     description: "Rishikesh, the 'Yoga Capital of the World', sits at the foothills of the Himalayas on the banks of the sacred Ganga. The evening Ganga Aarti at Triveni Ghat is a deeply spiritual experience.",
     bestTime: "September – November, February – May", entryFee: "Free", timings: "Open all day (Aarti at 6:00 PM)",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Evening_praying_time_at_Parmarth_Niketan_ghat%2C_by_the_Ganges%2C_Rishikesh.jpg/960px-Evening_praying_time_at_Parmarth_Niketan_ghat%2C_by_the_Ganges%2C_Rishikesh.jpg",
     nearbyPlaces: ["valley-of-flowers", "kedarnath"],
   },
   {
@@ -259,7 +259,7 @@ export const placesData = [
     state: "uttarakhand", stateName: "Uttarakhand", city: "Chamoli", category: "Nature", rating: 4.9,
     description: "A UNESCO World Heritage Site, Valley of Flowers is a breathtaking national park bursting with hundreds of species of alpine flowers. Accessible only by trekking, it's a paradise for nature lovers.",
     bestTime: "July – September", entryFee: "₹150 (Indians) | ₹600 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Valley_of_flowers_national_park%2C_Uttarakhand%2C_India_03_%28edit%29.jpg/960px-Valley_of_flowers_national_park%2C_Uttarakhand%2C_India_03_%28edit%29.jpg",
     nearbyPlaces: ["rishikesh-ghats", "kedarnath"],
   },
   {
@@ -268,7 +268,7 @@ export const placesData = [
     state: "uttarakhand", stateName: "Uttarakhand", city: "Rudraprayag", category: "Religious", rating: 4.9,
     description: "Kedarnath is one of the twelve Jyotirlingas and part of the Char Dham pilgrimage. Situated at 3,583m near the Mandakini River, it is surrounded by snow-capped peaks and is one of Hinduism's most sacred shrines.",
     bestTime: "May – June, September – October", entryFee: "Free", timings: "6:00 AM – 3:00 PM | 5:00 PM – 9:00 PM",
-    image: "https://images.unsplash.com/photo-1627301517152-11505c9f709c?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kedarnath_Temple_in_Rainy_season.jpg/500px-Kedarnath_Temple_in_Rainy_season.jpg",
     nearbyPlaces: ["rishikesh-ghats", "valley-of-flowers"],
   },
   {
@@ -277,7 +277,7 @@ export const placesData = [
     state: "uttarakhand", stateName: "Uttarakhand", city: "Nainital", category: "Nature", rating: 4.7,
     description: "India's oldest national park and a Project Tiger reserve, Jim Corbett is famous for its Bengal tiger population, diverse wildlife, and stunning Himalayan landscapes alongside the Ramganga River.",
     bestTime: "November – June", entryFee: "₹200 (Indians) | ₹1,500 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg/960px-Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg",
     nearbyPlaces: ["rishikesh-ghats", "valley-of-flowers"],
   },
   {
@@ -286,7 +286,7 @@ export const placesData = [
     state: "uttarakhand", stateName: "Uttarakhand", city: "Nainital", category: "Nature", rating: 4.6,
     description: "Nainital is a charming hill station built around a pear-shaped lake. The Naini Lake offers boating, and the surrounding hills provide trekking, cable car rides, and stunning views of the Himalayan peaks.",
     bestTime: "March – June, September – November", entryFee: "Free (Boating ₹100+)", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1559494007-5b6b64e0a71e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/The_Boat_and_The_Lake.jpg/960px-The_Boat_and_The_Lake.jpg",
     nearbyPlaces: ["jim-corbett", "rishikesh-ghats"],
   },
 
@@ -324,7 +324,7 @@ export const placesData = [
     state: "ladakh", stateName: "Ladakh", city: "Leh", category: "Religious", rating: 4.7,
     description: "Thiksey Monastery is a striking 12-storey Tibetan Buddhist monastery resembling the Potala Palace in Lhasa. Located at 3,600m, it houses a massive 15-metre Maitreya Buddha statue and offers panoramic Indus Valley views.",
     bestTime: "June – September", entryFee: "₹50 (Indians)", timings: "6:00 AM – 9:00 PM",
-    image: "https://images.unsplash.com/photo-1595331439943-8bdbfb1efd0a?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Thikse_Monastery_.jpg/500px-Thikse_Monastery_.jpg",
     nearbyPlaces: ["pangong-lake", "nubra-valley"],
   },
   {
@@ -333,7 +333,7 @@ export const placesData = [
     state: "ladakh", stateName: "Ladakh", city: "Leh", category: "Heritage", rating: 4.5,
     description: "The nine-storey Leh Palace was built in the 17th century by King Sengge Namgyal. Modelled after Tibet's Potala Palace, it dominates the Leh skyline and offers breathtaking views of the Karakoram ranges.",
     bestTime: "June – September", entryFee: "₹25 (Indians) | ₹300 (Foreigners)", timings: "7:00 AM – 4:00 PM",
-    image: "https://images.unsplash.com/photo-1600701843932-7a68e41e8b2d?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Leh_Palace_2011.jpg/960px-Leh_Palace_2011.jpg",
     nearbyPlaces: ["thiksey-monastery", "pangong-lake"],
   },
 
@@ -344,7 +344,7 @@ export const placesData = [
     state: "gujarat", stateName: "Gujarat", city: "Kevadia", category: "Heritage", rating: 4.8,
     description: "The Statue of Unity is the world's tallest statue at 182 metres, dedicated to Sardar Vallabhbhai Patel. Its observation deck offers breathtaking views of the Narmada river valley.",
     bestTime: "October – February", entryFee: "₹120 (Indians) | ₹350 (Foreigners)", timings: "9:00 AM – 6:00 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1585136917228-906dcc7a3a3a?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Statue_of_Unity.jpg/500px-Statue_of_Unity.jpg",
     nearbyPlaces: ["rani-ki-vav", "gir-national-park"],
   },
   {
@@ -353,7 +353,7 @@ export const placesData = [
     state: "gujarat", stateName: "Gujarat", city: "Patan", category: "Heritage", rating: 4.7,
     description: "Rani ki Vav is a UNESCO World Heritage Site — an 11th-century stepwell with over 500 principal sculptures depicting mythological scenes. A masterpiece of Solanki architecture.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "8:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1568454537842-d933259bb258?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/960px-Rani_ki_vav_02.jpg",
     nearbyPlaces: ["adalaj-stepwell", "statue-of-unity"],
   },
   {
@@ -362,7 +362,7 @@ export const placesData = [
     state: "gujarat", stateName: "Gujarat", city: "Somnath", category: "Religious", rating: 4.9,
     description: "Somnath is one of the twelve sacred Jyotirlingas of Lord Shiva. Located on the Arabian Sea coast, it has been destroyed and rebuilt multiple times, symbolising eternal resilience and devotion.",
     bestTime: "October – March", entryFee: "Free", timings: "6:00 AM – 9:30 PM",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/500px-Somanath_mandir_%28cropped%29.jpg",
     nearbyPlaces: ["dwarkadhish-temple", "gir-national-park"],
   },
   {
@@ -371,7 +371,7 @@ export const placesData = [
     state: "gujarat", stateName: "Gujarat", city: "Dwarka", category: "Religious", rating: 4.8,
     description: "One of the Char Dham pilgrimage sites, the Dwarkadhish Temple is dedicated to Lord Krishna. The 5-storey temple tower rises 51.8 metres and is one of India's most sacred temples.",
     bestTime: "October – March", entryFee: "Free", timings: "6:30 AM – 1:00 PM | 5:00 PM – 9:30 PM",
-    image: "https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dwarakadheesh_Temple%2C_2014.jpg/500px-Dwarakadheesh_Temple%2C_2014.jpg",
     nearbyPlaces: ["somnath-temple", "gir-national-park"],
   },
   {
@@ -389,7 +389,7 @@ export const placesData = [
     state: "gujarat", stateName: "Gujarat", city: "Kutch", category: "Adventure", rating: 4.9,
     description: "One of the world's largest salt deserts spanning 7,500 sq km. During the Rann Utsav festival, the white salt flats under a full moon create a hauntingly beautiful landscape.",
     bestTime: "November – February (Rann Utsav)", entryFee: "₹100 (Indians) | ₹500 (Foreigners)", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rann_of_Kutch_-_White_Desert.jpg/500px-Rann_of_Kutch_-_White_Desert.jpg",
     nearbyPlaces: ["rani-ki-vav", "statue-of-unity"],
   },
 
@@ -400,7 +400,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Kurukshetra", category: "Religious", rating: 4.8,
     description: "Brahma Sarovar is one of the holiest tanks in India, believed to be created by Lord Brahma. During solar eclipses, millions of pilgrims gather here to take a holy dip.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1627301517152-11505c9f709c?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Holy_pic_kkr.jpg/960px-Holy_pic_kkr.jpg",
     nearbyPlaces: ["jyotisar", "surajkund"],
   },
   {
@@ -409,7 +409,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Kurukshetra", category: "Religious", rating: 4.7,
     description: "The sacred birthplace of the Bhagavad Gita, where Lord Krishna delivered the divine sermon to Arjuna. Features an ancient banyan tree and a magnificent marble chariot tableau.",
     bestTime: "October – March", entryFee: "Free", timings: "8:00 AM – 8:00 PM",
-    image: "https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/en/7/71/Jyotisar_Banyan.gif",
     nearbyPlaces: ["brahma-sarovar", "surajkund"],
   },
   {
@@ -418,7 +418,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Gurugram", category: "Nature", rating: 4.5,
     description: "A paradise for bird watchers hosting over 250 species including Siberian Cranes, flamingos, and painted storks. Features nature trails and watch towers.",
     bestTime: "November – March", entryFee: "₹40 (Indians) | ₹400 (Foreigners)", timings: "7:00 AM – 4:30 PM (Closed Tuesday)",
-    image: "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sultanpur_Bird_Sanctuary%2C_Gurgaon.jpg/960px-Sultanpur_Bird_Sanctuary%2C_Gurgaon.jpg",
     nearbyPlaces: ["damdama-lake", "brahma-sarovar"],
   },
   {
@@ -427,7 +427,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Panchkula", category: "Nature", rating: 4.5,
     description: "Haryana's only hill station at 1,220 metres in the Shivalik ranges. Surrounded by dense forests and twin lakes, perfect for trekking, boating, and bird watching.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGlQrkjtPN1be-VDWBo-PTSZp_X4Myw8IXb6p4ynMKEln0rJHXv0oA0FQLaLmKhQ7Y76NGmUXV465TxbcwHtOraKznW8UFAC65UM14WqqIR2RHIKmOqvYw_FIke0cw44E5kl4Aj=w675-h390-n-k-no",
     nearbyPlaces: ["sultanpur-national-park", "damdama-lake"],
   },
   {
@@ -436,7 +436,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Gurugram", category: "Adventure", rating: 4.2,
     description: "Haryana's largest natural lake spread over 3,000 acres near Gurugram. Popular adventure hub offering hot air balloon rides, rock climbing, kayaking, and camping.",
     bestTime: "October – March", entryFee: "Free (Activities charged separately)", timings: "9:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Haryana_Tourism_restaurant_on_Damdama_Lake.JPG/960px-Haryana_Tourism_restaurant_on_Damdama_Lake.JPG",
     nearbyPlaces: ["sultanpur-national-park", "surajkund"],
   },
   {
@@ -445,7 +445,7 @@ export const placesData = [
     state: "haryana", stateName: "Haryana", city: "Faridabad", category: "Heritage", rating: 4.3,
     description: "An ancient 10th-century reservoir famous for the annual Surajkund International Crafts Mela — Asia's largest crafts fair held every February attracting artisans from across the globe.",
     bestTime: "February (Crafts Mela), October – March", entryFee: "₹20 (Indians)", timings: "9:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Suraj_Kund.jpg/960px-Suraj_Kund.jpg",
     nearbyPlaces: ["damdama-lake", "sultanpur-national-park"],
   },
 
@@ -456,7 +456,7 @@ export const placesData = [
     state: "maharashtra", stateName: "Maharashtra", city: "Mumbai", category: "Heritage", rating: 4.6,
     description: "The Gateway of India is an iconic arch monument built in 1924 overlooking the Arabian Sea. Originally built to welcome King George V, it is Mumbai's most recognised landmark and a symbol of the city.",
     bestTime: "November – February", entryFee: "Free", timings: "Open 24 hours",
-    image: "https://images.unsplash.com/photo-1529253355930-ddbe423a2ac7?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/960px-Mumbai_03-2016_30_Gateway_of_India.jpg",
     nearbyPlaces: ["ajanta-caves", "elephanta-caves"],
   },
   {
@@ -465,7 +465,7 @@ export const placesData = [
     state: "maharashtra", stateName: "Maharashtra", city: "Aurangabad", category: "Heritage", rating: 4.8,
     description: "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE to 480 CE. A UNESCO World Heritage Site, they contain ancient paintings and sculptures of exceptional artistic quality.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "9:00 AM – 5:30 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/960px-Ajanta_%2863%29.jpg",
     nearbyPlaces: ["ellora-caves", "gateway-of-india"],
   },
   {
@@ -474,7 +474,7 @@ export const placesData = [
     state: "maharashtra", stateName: "Maharashtra", city: "Aurangabad", category: "Heritage", rating: 4.7,
     description: "Ellora is a UNESCO World Heritage Site with 34 monasteries and temples spanning Buddhism, Hinduism, and Jainism. The Kailasa Temple, carved from a single rock, is one of the world's greatest architectural achievements.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "6:00 AM – 6:00 PM (Closed Tuesday)",
-    image: "https://images.unsplash.com/photo-1587135941948-670b381f08d2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ellora_Cave_No._10.jpg/500px-Ellora_Cave_No._10.jpg",
     nearbyPlaces: ["ajanta-caves", "gateway-of-india"],
   },
   {
@@ -483,7 +483,7 @@ export const placesData = [
     state: "maharashtra", stateName: "Maharashtra", city: "Pune", category: "Nature", rating: 4.4,
     description: "Lonavala and Khandala are twin hill stations in the Sahyadri ranges offering stunning monsoon waterfalls, scenic valleys, ancient Karla and Bhaja caves, and the famous Tiger's Leap viewpoint.",
     bestTime: "June – September (monsoon), October – February", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mumbai_Pune_Expressway2.jpg",
     nearbyPlaces: ["gateway-of-india", "ajanta-caves"],
   },
   {
@@ -492,7 +492,7 @@ export const placesData = [
     state: "maharashtra", stateName: "Maharashtra", city: "Mumbai", category: "Heritage", rating: 4.4,
     description: "The Elephanta Caves on Elephanta Island are a UNESCO World Heritage Site featuring magnificent rock-cut caves dedicated to Lord Shiva. The main Trimurti sculpture is one of India's greatest artistic masterpieces.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "9:30 AM – 5:30 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Elephanta_Caves_Trimurti.jpg/500px-Elephanta_Caves_Trimurti.jpg",
     nearbyPlaces: ["gateway-of-india", "ajanta-caves"],
   },
 
@@ -503,7 +503,7 @@ export const placesData = [
     state: "karnataka", stateName: "Karnataka", city: "Mysuru", category: "Heritage", rating: 4.8,
     description: "Mysore Palace is one of India's most magnificent royal palaces. Built in 1912 in the Indo-Saracenic style, it is illuminated by 97,000 light bulbs every Sunday and on special occasions.",
     bestTime: "October – March", entryFee: "₹70 (Indians) | ₹200 (Foreigners)", timings: "10:00 AM – 5:30 PM",
-    image: "https://images.unsplash.com/photo-1605649487212-47bdab064df7?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/960px-Mysore_Palace_Morning.jpg",
     nearbyPlaces: ["coorg", "hampi"],
   },
   {
@@ -512,7 +512,7 @@ export const placesData = [
     state: "karnataka", stateName: "Karnataka", city: "Vijayanagara", category: "Heritage", rating: 4.8,
     description: "Hampi is a UNESCO World Heritage Site — the ruins of the Vijayanagara Empire spread across a surreal boulder-strewn landscape. Its temples, markets, and royal enclosures are extraordinary examples of Dravidian architecture.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/960px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
     nearbyPlaces: ["mysore-palace", "coorg"],
   },
   {
@@ -521,7 +521,7 @@ export const placesData = [
     state: "karnataka", stateName: "Karnataka", city: "Coorg", category: "Nature", rating: 4.7,
     description: "Coorg is known as the 'Scotland of India' — a misty hill station covered with coffee plantations, spice gardens, and forests. Known for its unique Kodava culture, river rafting, and trekking to Tadiandamol peak.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1581579186913-45ac3e6efe93?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mandalpatti_Hills.jpg/500px-Mandalpatti_Hills.jpg",
     nearbyPlaces: ["mysore-palace", "hampi"],
   },
   {
@@ -530,7 +530,7 @@ export const placesData = [
     state: "karnataka", stateName: "Karnataka", city: "Shimoga", category: "Nature", rating: 4.6,
     description: "Jog Falls is India's second highest plunge waterfall at 253 metres. The Sharavathi River forms four distinct falls — Raja, Rani, Rocket, and Roarer — that are most spectacular during monsoon season.",
     bestTime: "August – January", entryFee: "Free", timings: "8:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jog_Falls_05092016.jpg/500px-Jog_Falls_05092016.jpg",
     nearbyPlaces: ["coorg", "mysore-palace"],
   },
 
@@ -550,7 +550,7 @@ export const placesData = [
     state: "tamil-nadu", stateName: "Tamil Nadu", city: "Chengalpattu", category: "Heritage", rating: 4.6,
     description: "Mahabalipuram (Mamallapuram) is a UNESCO World Heritage Site with 7th-century Pallava rock-cut temples, shore temples, and the famous Arjuna's Penance bas-relief — one of the largest open-air rock reliefs in the world.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1597040663942-cd5e1a9a2f98?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pancha_Ratha_Panorama_%281%29.jpg/960px-Pancha_Ratha_Panorama_%281%29.jpg",
     nearbyPlaces: ["meenakshi-temple", "rameshwaram"],
   },
   {
@@ -559,7 +559,7 @@ export const placesData = [
     state: "tamil-nadu", stateName: "Tamil Nadu", city: "Ooty", category: "Nature", rating: 4.5,
     description: "Ooty, the 'Queen of Hill Stations', sits at 2,240m in the Nilgiri Hills. Famous for its botanical gardens, toy train, tea estates, and Doddabetta Peak — the highest point in the Nilgiris.",
     bestTime: "October – June", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1581579186913-45ac3e6efe93?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ooty_lake.jpg/500px-Ooty_lake.jpg",
     nearbyPlaces: ["meenakshi-temple", "mahabalipuram"],
   },
   {
@@ -568,7 +568,7 @@ export const placesData = [
     state: "tamil-nadu", stateName: "Tamil Nadu", city: "Rameshwaram", category: "Religious", rating: 4.8,
     description: "Rameshwaram is one of the Char Dham pilgrimage sites and home to the Ramanathaswamy Temple with the longest temple corridor in India (1,200 metres). Its 22 theerthams (sacred wells) are central to Hindu pilgrimage.",
     bestTime: "October – April", entryFee: "Free", timings: "5:00 AM – 1:00 PM | 3:00 PM – 9:00 PM",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rameswaram_montage_image.jpg/500px-Rameswaram_montage_image.jpg",
     nearbyPlaces: ["meenakshi-temple", "mahabalipuram"],
   },
 
@@ -608,7 +608,7 @@ export const placesData = [
     state: "madhya-pradesh", stateName: "Madhya Pradesh", city: "Chhatarpur", category: "Heritage", rating: 4.7,
     description: "Khajuraho is a UNESCO World Heritage Site famous for its stunning medieval Hindu and Jain temples adorned with intricate erotic sculptures. Built between 950-1050 CE by the Chandela dynasty, they are masterpieces of Indian temple architecture.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1587135941948-670b381f08d2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/500px-1_Khajuraho.jpg",
     nearbyPlaces: ["sanchi-stupa", "bandhavgarh"],
   },
   {
@@ -617,7 +617,7 @@ export const placesData = [
     state: "madhya-pradesh", stateName: "Madhya Pradesh", city: "Raisen", category: "Heritage", rating: 4.6,
     description: "Sanchi Stupa is a UNESCO World Heritage Site — India's oldest stone structure, commissioned by Emperor Ashoka in the 3rd century BCE. It is the most perfectly preserved ancient Buddhist monument in the world.",
     bestTime: "October – March", entryFee: "₹40 (Indians) | ₹600 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%B8%E0%A5%87%E0%A4%A8%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B2%E0%A4%AE%E0%A5%8D.jpg",
     nearbyPlaces: ["khajuraho", "bandhavgarh"],
   },
   {
@@ -626,7 +626,7 @@ export const placesData = [
     state: "madhya-pradesh", stateName: "Madhya Pradesh", city: "Umaria", category: "Nature", rating: 4.7,
     description: "Bandhavgarh has the highest density of Bengal tigers in India. The park also has the historic Bandhavgarh Fort, prehistoric cave paintings, and diverse wildlife including leopards and sloth bears.",
     bestTime: "October – June", entryFee: "₹200 (Indians) | ₹1,500 (Foreigners)", timings: "6:00 AM – 11:00 AM | 3:00 PM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bandhavgarh_National_Park_Morning_Light.jpg/500px-Bandhavgarh_National_Park_Morning_Light.jpg",
     nearbyPlaces: ["khajuraho", "sanchi-stupa"],
   },
 
@@ -637,7 +637,7 @@ export const placesData = [
     state: "andhra-pradesh", stateName: "Andhra Pradesh", city: "Tirupati", category: "Religious", rating: 4.9,
     description: "The Tirumala Venkateswara Temple is the world's most visited religious site, receiving 50,000-100,000 pilgrims daily. Dedicated to Lord Venkateswara, it is located atop the Tirumala Hills and is one of the wealthiest temples in the world.",
     bestTime: "September – February", entryFee: "Free (Special darshan tickets available)", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_Anand_nilayam4653.jpg/500px-Tirumala_Anand_nilayam4653.jpg",
     nearbyPlaces: ["araku-valley", "belum-caves"],
   },
   {
@@ -646,7 +646,7 @@ export const placesData = [
     state: "andhra-pradesh", stateName: "Andhra Pradesh", city: "Visakhapatnam", category: "Nature", rating: 4.5,
     description: "Araku Valley is a scenic hill station in the Eastern Ghats at 910m, surrounded by coffee plantations and tribal villages. The Araku train journey from Visakhapatnam through 58 tunnels and 84 bridges is one of India's most scenic rail routes.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Katiki_Waterfall.jpg/250px-Katiki_Waterfall.jpg",
     nearbyPlaces: ["tirumala-temple", "belum-caves"],
   },
   {
@@ -655,7 +655,7 @@ export const placesData = [
     state: "andhra-pradesh", stateName: "Andhra Pradesh", city: "Kurnool", category: "Adventure", rating: 4.4,
     description: "Belum Caves is the second largest natural cave system in the Indian subcontinent, extending 3.5 km underground. The caves feature stalactites, stalagmites, and freshwater streams in a remarkable underground landscape.",
     bestTime: "October – March", entryFee: "₹60 (Indians) | ₹200 (Foreigners)", timings: "10:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Belumcave1.jpg/960px-Belumcave1.jpg",
     nearbyPlaces: ["tirumala-temple", "araku-valley"],
   },
 
@@ -666,7 +666,7 @@ export const placesData = [
     state: "punjab", stateName: "Punjab", city: "Amritsar", category: "Religious", rating: 4.9,
     description: "The Golden Temple is the holiest shrine in Sikhism, covered in gold leaf and surrounded by the sacred Amrit Sarovar lake. It welcomes over 100,000 visitors daily regardless of religion and serves free langar (community meal) to all.",
     bestTime: "October – March", entryFee: "Free", timings: "Open 24 hours",
-    image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/500px-The_Golden_Temple_of_Amrithsar_7.jpg",
     nearbyPlaces: ["wagah-border", "jallianwala-bagh"],
   },
   {
@@ -675,7 +675,7 @@ export const placesData = [
     state: "punjab", stateName: "Punjab", city: "Amritsar", category: "Culture", rating: 4.7,
     description: "The Wagah Border Ceremony is a daily military practice of lowering the flags at sunset. The elaborate, choreographed border closing ceremony between India and Pakistan is a patriotic spectacle watched by thousands daily.",
     bestTime: "October – March", entryFee: "Free", timings: "Ceremony 1 hour before sunset",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_SAARC_Car_Rally_2007_being_welcomed_by_traditional_Drummers_at_the_Wagah_Border_on_March_28%2C_2007.jpg/500px-The_SAARC_Car_Rally_2007_being_welcomed_by_traditional_Drummers_at_the_Wagah_Border_on_March_28%2C_2007.jpg",
     nearbyPlaces: ["golden-temple", "jallianwala-bagh"],
   },
   {
@@ -684,7 +684,7 @@ export const placesData = [
     state: "punjab", stateName: "Punjab", city: "Amritsar", category: "Heritage", rating: 4.6,
     description: "Jallianwala Bagh is a historic public garden and memorial to those killed in the 1919 Amritsar Massacre. The bullet marks still visible on its walls and the Martyrs' Well are deeply moving reminders of the struggle for independence.",
     bestTime: "October – March", entryFee: "Free", timings: "6:30 AM – 9:30 PM",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jallianwala_Bagh_in_Day_light.JPG/500px-Jallianwala_Bagh_in_Day_light.JPG",
     nearbyPlaces: ["golden-temple", "wagah-border"],
   },
 
@@ -695,7 +695,7 @@ export const placesData = [
     state: "assam", stateName: "Assam", city: "Golaghat", category: "Nature", rating: 4.8,
     description: "Kaziranga is a UNESCO World Heritage Site home to the world's largest population of the one-horned rhinoceros. The park also hosts tigers, elephants, wild water buffaloes, and is a birdwatcher's paradise.",
     bestTime: "November – April", entryFee: "₹100 (Indians) | ₹650 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/960px-Beauty_of_Kaziranga_National_Park.jpg",
     nearbyPlaces: ["manas-national-park", "kamakhya-temple"],
   },
   {
@@ -704,7 +704,7 @@ export const placesData = [
     state: "assam", stateName: "Assam", city: "Guwahati", category: "Religious", rating: 4.7,
     description: "Kamakhya Temple is one of the most important Shakti Peethas in India, dedicated to the goddess Kamakhya. Located atop Nilachal Hill in Guwahati, it attracts thousands of pilgrims especially during the Ambubachi Mela.",
     bestTime: "October – April", entryFee: "Free", timings: "8:00 AM – 1:00 PM | 2:30 PM – 5:30 PM",
-    image: "https://images.unsplash.com/photo-1627301517152-11505c9f709c?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kamakhya_Temple_-_DEV_8829.jpg/500px-Kamakhya_Temple_-_DEV_8829.jpg",
     nearbyPlaces: ["kaziranga", "manas-national-park"],
   },
   {
@@ -713,7 +713,7 @@ export const placesData = [
     state: "assam", stateName: "Assam", city: "Barpeta", category: "Nature", rating: 4.6,
     description: "Manas is a UNESCO World Heritage Site and Project Tiger reserve. It is home to the rare Golden Langur, pygmy hog, Assam roofed turtle, and wild buffalo, set against the stunning backdrop of Bhutan's foothills.",
     bestTime: "November – April", entryFee: "₹100 (Indians) | ₹650 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Manas_landscape_rhino.jpg/500px-Manas_landscape_rhino.jpg",
     nearbyPlaces: ["kaziranga", "kamakhya-temple"],
   },
 
@@ -724,7 +724,7 @@ export const placesData = [
     state: "meghalaya", stateName: "Meghalaya", city: "East Khasi Hills", category: "Nature", rating: 4.8,
     description: "The Living Root Bridges of Meghalaya are extraordinary bio-engineering wonders created by the Khasi and Jaintia tribes by training rubber tree roots across rivers over decades. The double-decker bridge at Nongriat is world-famous.",
     bestTime: "October – May", entryFee: "₹50", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1595331439943-8bdbfb1efd0a?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg/500px-Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg",
     nearbyPlaces: ["cherrapunji", "shillong-peak"],
   },
   {
@@ -733,7 +733,7 @@ export const placesData = [
     state: "meghalaya", stateName: "Meghalaya", city: "East Khasi Hills", category: "Nature", rating: 4.7,
     description: "Cherrapunji, formerly the wettest place on Earth, is a misty plateau with stunning waterfalls, deep gorges, and views of the Bangladesh plains. Nohkalikai Falls — India's tallest plunge waterfall at 340m — is here.",
     bestTime: "October – April", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NohKaLikai_Falls_V2_Wiki.jpg/250px-NohKaLikai_Falls_V2_Wiki.jpg",
     nearbyPlaces: ["living-root-bridges", "shillong-peak"],
   },
   {
@@ -742,7 +742,7 @@ export const placesData = [
     state: "meghalaya", stateName: "Meghalaya", city: "Shillong", category: "Nature", rating: 4.5,
     description: "Shillong Peak is the highest point in Meghalaya at 1,965m, offering a panoramic 360-degree view of the entire Shillong city and surrounding hills. The journey to the peak passes through dense forests.",
     bestTime: "October – April", entryFee: "₹20 (Indians)", timings: "9:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1559494007-5b6b64e0a71e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Elephant_Falls_II%2C_Shillong.jpg/500px-Elephant_Falls_II%2C_Shillong.jpg",
     nearbyPlaces: ["living-root-bridges", "cherrapunji"],
   },
 
@@ -753,7 +753,7 @@ export const placesData = [
     state: "delhi", stateName: "Delhi", city: "Delhi", category: "Heritage", rating: 4.6,
     description: "The Red Fort is a UNESCO World Heritage Site — the main residence of Mughal emperors for nearly 200 years. Built by Shah Jahan in 1638, the Prime Minister addresses the nation from its ramparts every Independence Day.",
     bestTime: "October – March", entryFee: "₹35 (Indians) | ₹500 (Foreigners)", timings: "9:30 AM – 4:30 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
     nearbyPlaces: ["qutub-minar", "india-gate"],
   },
   {
@@ -762,7 +762,7 @@ export const placesData = [
     state: "delhi", stateName: "Delhi", city: "Delhi", category: "Heritage", rating: 4.6,
     description: "Qutub Minar is a UNESCO World Heritage Site — a 73-metre tall minaret built in 1193 CE. The surrounding Qutub complex includes the Quwwat-ul-Islam Mosque and the mysterious Iron Pillar that has resisted rusting for 1,600 years.",
     bestTime: "October – March", entryFee: "₹35 (Indians) | ₹550 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/500px-Qutb_Minar_2022.jpg",
     nearbyPlaces: ["red-fort", "india-gate"],
   },
   {
@@ -771,7 +771,7 @@ export const placesData = [
     state: "delhi", stateName: "Delhi", city: "Delhi", category: "Heritage", rating: 4.7,
     description: "India Gate is a 42-metre war memorial dedicated to the 82,000 Indian soldiers who died in World War I and the Third Anglo-Afghan War. The Amar Jawan Jyoti flame burns eternally beneath it, and the surrounding lawns are a popular evening destination.",
     bestTime: "October – March", entryFee: "Free", timings: "Open 24 hours",
-    image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/India_Gate_%28All_India_War_Memorial%29.jpg/500px-India_Gate_%28All_India_War_Memorial%29.jpg",
     nearbyPlaces: ["red-fort", "qutub-minar"],
   },
   {
@@ -780,7 +780,7 @@ export const placesData = [
     state: "delhi", stateName: "Delhi", city: "Delhi", category: "Heritage", rating: 4.7,
     description: "Humayun's Tomb is a UNESCO World Heritage Site — the first garden-tomb on the Indian subcontinent. Built in 1570, it inspired the design of the Taj Mahal and is surrounded by beautiful Mughal charbagh gardens.",
     bestTime: "October – March", entryFee: "₹35 (Indians) | ₹550 (Foreigners)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/960px-Tomb_of_Humayun%2C_Delhi.jpg",
     nearbyPlaces: ["red-fort", "qutub-minar"],
   },
   {
@@ -789,7 +789,7 @@ export const placesData = [
     state: "delhi", stateName: "Delhi", city: "Delhi", category: "Religious", rating: 4.5,
     description: "The Lotus Temple is a Bahá'í House of Worship shaped like a blooming lotus flower. Open to all religions, it is made of white marble and surrounded by nine pools. It has won numerous architectural awards.",
     bestTime: "October – March", entryFee: "Free", timings: "9:00 AM – 5:30 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LotusDelhi.jpg/960px-LotusDelhi.jpg",
     nearbyPlaces: ["humayuns-tomb", "qutub-minar"],
   },
 
@@ -1051,7 +1051,7 @@ export const placesData = [
     state: "manipur", stateName: "Manipur", city: "Imphal", category: "Heritage", rating: 4.5,
     description: "Kangla Fort was the ancient seat of power of Manipur's rulers for over 2,000 years. Located at the confluence of two rivers, it holds deep cultural and spiritual significance for the Meitei people and contains several ancient temples and royal ruins.",
     bestTime: "October – March", entryFee: "₹10 (Indians)", timings: "9:00 AM – 4:30 PM",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg/500px-Temple_of_God_Pakhangba_of_Sanamahi_religion_inside_the_Kangla_Fort%2C_Imphal_West%2C_Manipur.jpg",
     nearbyPlaces: ["loktak-lake", "shree-govindajee-temple"],
   },
   {
@@ -1060,7 +1060,7 @@ export const placesData = [
     state: "manipur", stateName: "Manipur", city: "Imphal", category: "Religious", rating: 4.6,
     description: "The Shree Govindajee Temple is Manipur's most important Vaishnava temple, featuring twin white domes. During Rath Yatra and Janmashtami, thousands of devotees gather for elaborate festivals showcasing the classical Manipuri dance traditions.",
     bestTime: "October – March", entryFee: "Free", timings: "5:00 AM – 9:00 PM",
-    image: "https://images.unsplash.com/photo-1609139003551-4a7de12b8c72?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/FB7A9290.jpg/500px-FB7A9290.jpg",
     nearbyPlaces: ["kangla-fort", "loktak-lake"],
   },
   {
@@ -1069,7 +1069,7 @@ export const placesData = [
     state: "manipur", stateName: "Manipur", city: "Senapati", category: "Nature", rating: 4.8,
     description: "Dzükou Valley, straddling the Manipur-Nagaland border, is a breathtaking alpine valley at 2,438m. Called the 'Valley of Flowers of the Northeast', it bursts with rare Dzükou lilies, rhododendrons, and wildflowers every season.",
     bestTime: "June – September (flowers), December – February (snow)", entryFee: "₹100 (Indians)", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dzukou_Valley.jpg/960px-Dzukou_Valley.jpg",
     nearbyPlaces: ["loktak-lake", "kangla-fort"],
   },
   {
@@ -1078,7 +1078,7 @@ export const placesData = [
     state: "manipur", stateName: "Manipur", city: "Imphal", category: "Heritage", rating: 4.5,
     description: "The Imphal War Cemetery is a meticulously maintained Commonwealth War Graves site commemorating 1,600 Allied soldiers who died in the decisive 1944 Battle of Imphal during World War II — one of the most critical battles of the Asia-Pacific theatre.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Imphal_War_cemetery.jpg",
     nearbyPlaces: ["kangla-fort", "loktak-lake"],
   },
 
@@ -1089,7 +1089,7 @@ export const placesData = [
     state: "nagaland", stateName: "Nagaland", city: "Kisama", category: "Culture", rating: 4.9,
     description: "The Hornbill Festival is India's most colourful tribal festival, held every December at Kisama Heritage Village. All 17 Naga tribes gather to showcase their traditional dances, songs, games, crafts, and cuisine — making it the 'Festival of Festivals'.",
     bestTime: "December 1-10", entryFee: "₹300 (Indians) | ₹1,500 (Foreigners)", timings: "9:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1567364820643-9c96767d5843?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hornbill_Festival_%2CNagaland.jpg/500px-Hornbill_Festival_%2CNagaland.jpg",
     nearbyPlaces: ["kohima-war-cemetery", "dzuko-valley-nagaland"],
   },
   {
@@ -1098,7 +1098,7 @@ export const placesData = [
     state: "nagaland", stateName: "Nagaland", city: "Kohima", category: "Heritage", rating: 4.7,
     description: "The Kohima War Cemetery is a solemn tribute to the 2,000+ Allied soldiers who died in the 1944 Battle of Kohima — the 'Stalingrad of the East'. The famous Kohima Epitaph reads: 'When you go home, tell them of us and say, for their tomorrow, we gave our today.'",
     bestTime: "October – April", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cemetery_with_kohima.jpeg/960px-Cemetery_with_kohima.jpeg",
     nearbyPlaces: ["hornbill-festival", "dzuko-valley-nagaland"],
   },
   {
@@ -1107,7 +1107,7 @@ export const placesData = [
     state: "nagaland", stateName: "Nagaland", city: "Kohima", category: "Nature", rating: 4.8,
     description: "The Nagaland side of Dzükou Valley offers a pristine alpine trekking experience through pine forests and meadows filled with rare Dzükou lilies. The valley is accessible by a challenging but rewarding 4-5 hour trek from Viswema village.",
     bestTime: "June – September (flowers), December – February (snow)", entryFee: "₹100 (Indians)", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dzukou_Valley.jpg/960px-Dzukou_Valley.jpg",
     nearbyPlaces: ["hornbill-festival", "kohima-war-cemetery"],
   },
   {
@@ -1116,7 +1116,7 @@ export const placesData = [
     state: "nagaland", stateName: "Nagaland", city: "Kohima", category: "Adventure", rating: 4.5,
     description: "Japfu Peak at 3,048m is the second highest peak in Nagaland. The summit offers spectacular panoramic views and hosts the largest rhododendron tree in the world. The challenging trek passes through oak forests teeming with birds.",
     bestTime: "March – May (rhododendrons), October – December", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Barail_Range_in_Dima_Hasao_district.jpg/960px-Barail_Range_in_Dima_Hasao_district.jpg",
     nearbyPlaces: ["kohima-war-cemetery", "hornbill-festival"],
   },
   {
@@ -1136,7 +1136,7 @@ export const placesData = [
     state: "mizoram", stateName: "Mizoram", city: "Lawngtlai", category: "Adventure", rating: 4.8,
     description: "Phawngpui Peak at 2,157m is Mizoram's highest peak and is known as the 'Blue Mountain'. The Phawngpui National Park around it is home to rare orchids, sun bears, clouded leopards, and the endangered Hume's Bartail pheasant.",
     bestTime: "October – March", entryFee: "₹100 (Indians)", timings: "Sunrise to Sunset",
-    image: "https://images.unsplash.com/photo-1597659840986-3ec38c69c7b5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/2007-blue-mtn-farpak.jpg",
     nearbyPlaces: ["vantawng-falls", "reiek-hill"],
   },
   {
@@ -1145,7 +1145,7 @@ export const placesData = [
     state: "mizoram", stateName: "Mizoram", city: "Serchhip", category: "Nature", rating: 4.6,
     description: "Vantawng Falls at 750 feet is Mizoram's highest and most spectacular waterfall, located in a dense jungle. The thundering cascade surrounded by pristine forest creates a magical atmosphere, especially during and after the monsoon season.",
     bestTime: "September – February", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Vantawng_Khawhthla.jpg",
     nearbyPlaces: ["phawngpui-peak", "reiek-hill"],
   },
   {
@@ -1163,7 +1163,7 @@ export const placesData = [
     state: "mizoram", stateName: "Mizoram", city: "Saiha", category: "Nature", rating: 4.5,
     description: "Palak Lake is Mizoram's largest natural lake, surrounded by dense forests with crocodiles and migratory birds. According to Mara tribal legend, the lake was formed when a village sank into the earth, and local folklore makes it a fascinating cultural destination.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1559494007-5b6b64e0a71e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Palak_Dil.jpg/960px-Palak_Dil.jpg",
     nearbyPlaces: ["phawngpui-peak", "vantawng-falls"],
   },
   {
@@ -1172,7 +1172,7 @@ export const placesData = [
     state: "mizoram", stateName: "Mizoram", city: "Aizawl", category: "Culture", rating: 4.3,
     description: "Aizawl, Mizoram's capital, is a charming hill city built on steep ridges at 1,132m. Known for its cleanliness, literacy, and vibrant Mizo culture, its markets, churches, and the Mizoram State Museum offer insight into the unique Mizo way of life.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1597659840986-3ec38c69c7b5?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Aizawl_City.jpg/960px-Aizawl_City.jpg",
     nearbyPlaces: ["reiek-hill", "vantawng-falls"],
   },
 
@@ -1183,7 +1183,7 @@ export const placesData = [
     state: "tripura", stateName: "Tripura", city: "Agartala", category: "Heritage", rating: 4.5,
     description: "The magnificent Ujjayanta Palace was the royal palace of Tripura's Manikya kings, built in 1901. Surrounded by beautiful Mughal gardens and two artificial lakes, it now houses the Tripura State Museum with an impressive collection of royal artifacts.",
     bestTime: "October – March", entryFee: "₹20 (Indians) | ₹200 (Foreigners)", timings: "10:00 AM – 5:00 PM (Closed Monday)",
-    image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg/960px-Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
     nearbyPlaces: ["neermahal", "unakoti"],
   },
   {
@@ -1192,7 +1192,7 @@ export const placesData = [
     state: "tripura", stateName: "Tripura", city: "Melaghar", category: "Heritage", rating: 4.6,
     description: "Neermahal is the only water palace in eastern India, built in 1930 by Maharaja Bir Bikram Kishore Manikya in the middle of Rudrasagar Lake. The blend of Hindu and Islamic architectural styles reflected in the lake waters creates a stunning visual spectacle.",
     bestTime: "October – March", entryFee: "₹10 (Indians) | ₹100 (Foreigners)", timings: "9:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1559494007-5b6b64e0a71e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Neer_Mahal%2C_the_water_palace_of_Tripura_02.jpg/500px-Neer_Mahal%2C_the_water_palace_of_Tripura_02.jpg",
     nearbyPlaces: ["ujjayanta-palace", "unakoti"],
   },
   {
@@ -1201,7 +1201,7 @@ export const placesData = [
     state: "tripura", stateName: "Tripura", city: "Kailashahar", category: "Heritage", rating: 4.6,
     description: "Unakoti is a unique 7th-9th century CE Shaivite pilgrimage site with colossal rock-cut carvings and sculptures. The site's name means 'one less than a crore' — legend says 9,999,999 deities were carved here by sage Kallu Kumhar in a single night.",
     bestTime: "October – March", entryFee: "₹25 (Indians) | ₹300 (Foreigners)", timings: "9:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1587135941948-670b381f08d2?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Unakoti_3.jpg/500px-Unakoti_3.jpg",
     nearbyPlaces: ["ujjayanta-palace", "neermahal"],
   },
   {
@@ -1210,7 +1210,7 @@ export const placesData = [
     state: "tripura", stateName: "Tripura", city: "Bishramganj", category: "Nature", rating: 4.3,
     description: "Sepahijala Wildlife Sanctuary is home to 150 primate species including spectacled monkeys, and over 456 plant species. The sanctuary's botanical garden, zoo, and boating lake make it a popular eco-tourism destination in Tripura.",
     bestTime: "October – March", entryFee: "₹20 (Indians)", timings: "8:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Deer%2C_Sepahijala_WLS.jpg/960px-Deer%2C_Sepahijala_WLS.jpg",
     nearbyPlaces: ["ujjayanta-palace", "neermahal"],
   },
   {
@@ -1219,7 +1219,7 @@ export const placesData = [
     state: "tripura", stateName: "Tripura", city: "North Tripura", category: "Nature", rating: 4.4,
     description: "Jampui Hills is Tripura's highest hill range at 1,000m, covered with orange orchards. The Orange Festival in November draws visitors to witness the spectacular blooming orchards with views of the Lushai Hills. The area has a pleasant climate year-round.",
     bestTime: "October – March", entryFee: "Free", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/A_view_of_Jampui_Hills_in_the_East_from_the_plains_of_Kanchanpur.jpg",
     nearbyPlaces: ["unakoti", "ujjayanta-palace"],
   },
 
@@ -1281,7 +1281,7 @@ export const placesData = [
     state: "arunachal-pradesh", stateName: "Arunachal Pradesh", city: "Tawang", category: "Religious", rating: 4.9,
     description: "Tawang Monastery is the largest Buddhist monastery in India and the second largest in the world after Lhasa. Built at 10,000 ft in 1681, it houses priceless Buddhist scriptures, thangkas, and a 28-foot golden statue of Lord Buddha.",
     bestTime: "March – October", entryFee: "₹50 (Indians)", timings: "9:00 AM – 5:00 PM",
-    image: "https://images.unsplash.com/photo-1600701843932-7a68e41e8b2d?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TawangMonastery.jpg/500px-TawangMonastery.jpg",
     nearbyPlaces: ["sela-pass", "namdapha"],
   },
   {
@@ -1290,7 +1290,7 @@ export const placesData = [
     state: "arunachal-pradesh", stateName: "Arunachal Pradesh", city: "Tawang", category: "Adventure", rating: 4.8,
     description: "Sela Pass at 13,700 ft is a stunning high-altitude mountain pass surrounded by snow-capped peaks year-round. The Sela Lake nearby reflects the surrounding mountains and is considered sacred by the Buddhist community of Tawang.",
     bestTime: "April – October", entryFee: "Free", timings: "Open all day (weather permitting)",
-    image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tawang_Gate.jpg/500px-Tawang_Gate.jpg",
     nearbyPlaces: ["tawang-monastery", "namdapha"],
   },
   {
@@ -1299,7 +1299,7 @@ export const placesData = [
     state: "arunachal-pradesh", stateName: "Arunachal Pradesh", city: "Changlang", category: "Nature", rating: 4.7,
     description: "Namdapha is India's largest national park in the Northeast and the world's northernmost lowland rainforest. It is the only park in the world to have four big cat species — tiger, leopard, snow leopard, and clouded leopard.",
     bestTime: "November – April", entryFee: "₹100 (Indians) | ₹500 (Foreigners)", timings: "6:00 AM – 6:00 PM",
-    image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Forest_snow_Namdapha_IMG_3373_04.jpg/960px-Forest_snow_Namdapha_IMG_3373_04.jpg",
     nearbyPlaces: ["tawang-monastery", "sela-pass"],
   },
   {
@@ -1308,7 +1308,7 @@ export const placesData = [
     state: "arunachal-pradesh", stateName: "Arunachal Pradesh", city: "Lower Subansiri", category: "Nature", rating: 4.7,
     description: "Ziro Valley is a UNESCO World Heritage nomination site — a picturesque valley of the Apatani tribe at 1,500m. The Apatani people's unique land management system, traditional villages, and the annual Ziro Music Festival make it a unique cultural destination.",
     bestTime: "March – October", entryFee: "Inner Line Permit required", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1586417535882-a4b7e44b9640?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/A_cross_section_of_luch_green_valley_of_Ziro.jpg/500px-A_cross_section_of_luch_green_valley_of_Ziro.jpg",
     nearbyPlaces: ["tawang-monastery", "namdapha"],
   },
   {
@@ -1317,7 +1317,7 @@ export const placesData = [
     state: "arunachal-pradesh", stateName: "Arunachal Pradesh", city: "West Siang", category: "Adventure", rating: 4.6,
     description: "Mechuka is one of India's most remote and beautiful valleys near the Chinese border at 6,000 ft. Known as the 'Land of Gods', it features the ancient Samten Yongcha Monastery, pristine Mechuka River, and stunning snow-capped peaks.",
     bestTime: "April – October", entryFee: "Inner Line Permit required", timings: "Open all day",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mechuka_overview_2.jpg/500px-Mechuka_overview_2.jpg",
     nearbyPlaces: ["tawang-monastery", "ziro-valley"],
   },
 
@@ -1508,15 +1508,63 @@ export const placesData = [
     image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
     nearbyPlaces: ["agatti-island", "kavaratti-island"],
   },  
+
+  // ── CHANDIGARH ───────────────────────────────────────────────
+  {
+    id: "rock-garden",
+    name: "Rock Garden",
+    state: "chandigarh", stateName: "Chandigarh", city: "Chandigarh", category: "Culture", rating: 4.7,
+    description: "The Rock Garden is a unique sculpture garden created by Nek Chand using industrial and home waste, recycled materials, and broken ceramics. Spread over 40 acres, it's one of India's most fascinating examples of folk art and is a UNESCO-recognised site.",
+    bestTime: "October – March", entryFee: "₹30 (Indians) | ₹50 (Foreigners)", timings: "9:00 AM – 7:00 PM",
+    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    nearbyPlaces: ["sukhna-lake", "rose-garden"],
+  },
+  {
+    id: "sukhna-lake",
+    name: "Sukhna Lake",
+    state: "chandigarh", stateName: "Chandigarh", city: "Chandigarh", category: "Nature", rating: 4.6,
+    description: "Sukhna Lake is a man-made reservoir at the foothills of the Shivalik range, created in 1958. It's a popular spot for boating, jogging, and bird watching, with the lake attracting migratory birds during winter.",
+    bestTime: "October – March", entryFee: "Free (Boating ₹100+)", timings: "5:00 AM – 8:00 PM",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    nearbyPlaces: ["rock-garden", "rose-garden"],
+  },
+  {
+    id: "rose-garden",
+    name: "Zakir Hussain Rose Garden",
+    state: "chandigarh", stateName: "Chandigarh", city: "Chandigarh", category: "Nature", rating: 4.4,
+    description: "Asia's largest rose garden, spread over 30 acres with more than 1,600 varieties of roses. It hosts the annual Rose Festival in February-March, attracting thousands of visitors to see the blooming gardens.",
+    bestTime: "February – March (Rose Festival), October – March", entryFee: "Free", timings: "6:00 AM – 7:00 PM",
+    image: "https://images.unsplash.com/photo-1595331439943-8bdbfb1efd0a?w=800&q=80",
+    nearbyPlaces: ["rock-garden", "sukhna-lake"],
+  },
+  {
+    id: "capitol-complex",
+    name: "Capitol Complex",
+    state: "chandigarh", stateName: "Chandigarh", city: "Chandigarh", category: "Heritage", rating: 4.5,
+    description: "A UNESCO World Heritage Site designed by Swiss-French architect Le Corbusier, the Capitol Complex houses the Punjab and Haryana High Court, Secretariat, and Legislative Assembly. It's a landmark of modernist architecture in India.",
+    bestTime: "October – March", entryFee: "Free (ID required for entry)", timings: "9:00 AM – 5:00 PM (Closed Sunday & Monday)",
+    image: "https://images.unsplash.com/photo-1587135941948-670b381f08d2?w=800&q=80",
+    nearbyPlaces: ["rock-garden", "sukhna-lake"],
+  },
+  {
+    id: "sector-17-plaza",
+    name: "Sector 17 Plaza",
+    state: "chandigarh", stateName: "Chandigarh", city: "Chandigarh", category: "Culture", rating: 4.2,
+    description: "Sector 17 is Chandigarh's central business district and shopping hub, designed as a pedestrian-friendly plaza. Known for its open-air markets, fountains, and modernist architecture, it's the heart of the city's commercial and social life.",
+    bestTime: "October – March", entryFee: "Free", timings: "10:00 AM – 9:00 PM",
+    image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    nearbyPlaces: ["rose-garden", "rock-garden"],
+  },
+
 ]
 
 export const statesInfo = {
 
-  // ══════════════════════════════════════════════════════════════
+// ══════════════════════════════════════════════════════════════
 // PASTE THESE INSIDE the statesInfo object (along with existing ones)
 // ══════════════════════════════════════════════════════════════
   "rajasthan":        { name: "Rajasthan",        tagline: "The Land of Kings",          image: "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?w=1600&q=80" },
-  "kerala":           { name: "Kerala",            tagline: "God's Own Country",          image: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=1600&q=80" },
+  "kerala":           { name: "Kerala",            tagline: "God's Own Country",          image: "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvJxQXC1mnHFhS2vgz7ec6qx9l4_Trjol7M_TwgnmXPWs7XMcPGh3CtEZlt4Q-gBeCdQX3mNiuiUltm7-2ISsPmlbXoomUnEn0AJ7o3tytywA_aUzGt9NhEpQDdiYsakc4jYH6dA=w675-h390-n-k-no" },
   "himachal-pradesh": { name: "Himachal Pradesh",  tagline: "Heaven on Earth",            image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=1600&q=80" },
   "goa":              { name: "Goa",               tagline: "The Beach Paradise",         image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600&q=80" },
   "uttarakhand":      { name: "Uttarakhand",       tagline: "Devbhoomi",                  image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80" },
@@ -1534,8 +1582,7 @@ export const statesInfo = {
   "assam":            { name: "Assam",             tagline: "Land of Red River",          image: "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?w=1600&q=80" },
   "meghalaya":        { name: "Meghalaya",         tagline: "Abode of Clouds",            image: "https://images.unsplash.com/photo-1595331439943-8bdbfb1efd0a?w=1600&q=80" },
   "delhi":            { name: "Delhi",             tagline: "Heart of India",             image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=1600&q=80" },
-
-  // ── Add to statesInfo object ──
+  "chandigarh":       { name: "Chandigarh",        tagline: "The City Beautiful",         image: "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1600&q=80" },
   "bihar":             { name: "Bihar",             tagline: "Where History Lives",         image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTY8KrtvmCoq12S6UF5hy6NiATaaWtp93So7SuGOOyCx9Km4_Q8AUcWcXFvJ5bscRMpx01RvPOOlqsAk12idk0dzQ8&s=19" },
   "jharkhand":         { name: "Jharkhand",         tagline: "Land of Forests",             image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=1600&q=80" },
   "odisha":            { name: "Odisha",            tagline: "The Soul of India",           image: "https://images.unsplash.com/photo-1595658658481-d53d3f999875?w=1600&q=80" },

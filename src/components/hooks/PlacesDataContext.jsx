@@ -2,10 +2,29 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { placesData as defaultPlacesData, statesInfo as defaultStatesInfo } from '../../data/placesData'
 
 const STORAGE_KEY = 'tb_places_data'
+const VERSION_KEY = 'tb_places_data_version'
+
+// ─── IMPORTANT ────────────────────────────────────────────────
+// Bump this number any time you manually edit placesData.js
+// (add/remove places, change images, etc.) so that everyone's
+// browser automatically picks up the fresh file instead of using
+// their old cached localStorage copy.
+const DATA_VERSION = "3"
 
 // ─── HELPERS ──────────────────────────────────────────────────
 const loadFromStorage = () => {
   try {
+    const savedVersion = localStorage.getItem(VERSION_KEY)
+
+    // If the code's data version doesn't match what's cached,
+    // the placesData.js file was edited manually — throw away
+    // the old cache and use the fresh file instead.
+    if (savedVersion !== DATA_VERSION) {
+      localStorage.removeItem(STORAGE_KEY)
+      localStorage.setItem(VERSION_KEY, DATA_VERSION)
+      return defaultPlacesData
+    }
+
     const saved = localStorage.getItem(STORAGE_KEY)
     if (saved) return JSON.parse(saved)
   } catch (e) {
@@ -17,6 +36,7 @@ const loadFromStorage = () => {
 const saveToStorage = (places) => {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(places))
+    localStorage.setItem(VERSION_KEY, DATA_VERSION)
   } catch (e) {
     console.error('Failed to save places to storage', e)
   }
@@ -27,6 +47,10 @@ const saveToStorage = (places) => {
 // Public pages (States, Destinations, PlaceDetail, Categories) read from here.
 // Admin Panel writes to here. Both stay in sync because it's one Context,
 // not separate hook instances.
+//
+// Auto-cache-invalidation: bump DATA_VERSION above whenever you edit
+// placesData.js by hand, so browsers automatically pick up the new file
+// instead of serving stale localStorage data.
 const PlacesDataContext = createContext()
 
 export const PlacesDataProvider = ({ children }) => {
@@ -53,6 +77,7 @@ export const PlacesDataProvider = ({ children }) => {
   const resetToDefault = useCallback(() => {
     setPlaces(defaultPlacesData)
     localStorage.removeItem(STORAGE_KEY)
+    localStorage.setItem(VERSION_KEY, DATA_VERSION)
   }, [])
 
   const getPlaceById = useCallback(
